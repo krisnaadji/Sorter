@@ -34,7 +34,7 @@ namespace NameSorter
 
     public class ReverseWords
     {
-        // 
+        // Swap last name to first name
         public string ReverseWordInString(string[] s)
         {
             string lastToGiven = s[s.Length-1];
